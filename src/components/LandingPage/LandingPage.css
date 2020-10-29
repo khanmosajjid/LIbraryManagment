@@ -1,0 +1,9 @@
+.lib-quote{
+    background: linear-gradient(to right, #00d2ff, #3a7bd5);
+    font-family: system-ui;
+    font-size: x-large;
+    font-weight: 500;
+}
+.qoute{
+    margin: 0px !important;
+}

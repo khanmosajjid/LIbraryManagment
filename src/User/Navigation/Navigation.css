@@ -1,0 +1,26 @@
+.user-nav {
+  width: 100%;
+  /* background: linear-gradient(to right, #4b6cb7, #182848); */
+  background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.heading-link {
+  justify-content: flex-end;
+  color: black !important;
+}
+.user-profile {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+.collapse-navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-link {
+  color: black !important;
+}

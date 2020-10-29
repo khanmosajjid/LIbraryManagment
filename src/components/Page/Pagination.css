@@ -1,0 +1,15 @@
+.pagination-row{
+    margin: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+.column{
+    margin: 20px;
+}
+.books-img{
+    height: 30vh !important;
+}
+.book-title{
+    font-weight: bold;
+    font-family: fantasy;
+}

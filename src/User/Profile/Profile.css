@@ -1,0 +1,24 @@
+.card-body{
+    background: #161839;
+    color: white;
+
+
+}
+.rounded-circle{
+    height: 20vh;
+}
+.bg-secondary-shadow{
+    border: none;
+}
+.card{
+    border: none;
+    margin-bottom: 10px;
+}
+
+.change-pic{
+    display: flex;
+    justify-content: center;
+}
+.mt--7{
+    height: 80vh;
+}

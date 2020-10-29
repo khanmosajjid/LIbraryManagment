@@ -1,0 +1,44 @@
+.nav_main {
+  width: 100%;
+  
+  background: #4b6cb7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+  
+}
+.link {
+  margin-left: auto !important;
+  
+}
+.mx-auto{
+    margin-right: 0px !important;
+}
+
+.logo-img {
+  width: 30%;
+}
+.navbar_route {
+  display: flex;
+  justify-content: center;
+}
+.navbar {
+  justify-content: center !important;
+}
+a{
+    /* font-size: 160%; */
+    /* margin-right: 25px; */
+    color: white;
+    padding: 0.3rem 1.4rem !important;
+    font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+}
+.logo{
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+.btn-danger{
+  margin: 0.5rem;
+}

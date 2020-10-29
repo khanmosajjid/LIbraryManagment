@@ -1,0 +1,52 @@
+.login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../../assets/1.jpg);
+}
+.card-main {
+
+  height: 70%;
+  border-radius: 1.25rem !important;
+  opacity: 0.9;
+  background-color: white;
+}
+/* .card-title {
+  font-size: x-large;
+
+  background-color: #333745;
+  height: 10%;
+  color: white;
+} */
+.form-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: white; */
+  height: 90%;
+  width: 70%;
+}
+.card-head{
+    background-color: #333745;
+    color: white;
+    border-radius: 5px;
+}
+.login-form{
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-row{
+    width: 100%;
+}
+.space{
+    margin: 5%;
+}
+
